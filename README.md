@@ -11,6 +11,15 @@ This project is an audio classification application that identifies animals base
 - Clean and simple user interface
 - Optional region selector (decorative)
 
+
+## Demo
+
+
+
+https://github.com/user-attachments/assets/8ba5bec9-f1d4-4628-b350-ff24df3085dc
+
+
+
 ## Technologies Used
 
 - Python 3.11
@@ -36,6 +45,8 @@ cd your-repo-name
 python -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
 ```
+
+
 
 ### Run the App
 ```bash
